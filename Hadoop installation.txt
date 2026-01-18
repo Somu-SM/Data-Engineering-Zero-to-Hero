@@ -1,0 +1,3 @@
+1- http://hadoop.apache.org/docs/r2.7.3/hadoop-project-dist/hadoop-common/SingleCluster.html
+2- https://muhammadbilalyar.github.io/blogs/How-to-install-Hadoop-on-Window-10/
+3- https://stackoverflow.com/questions/26990243/hadoop-installation-on-windows

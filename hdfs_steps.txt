@@ -1,0 +1,10 @@
+Commands::
+mkdir guvi
+touch big.txt OR vi big.txt
+hadoop fs -put big.txt <<HDFS PATH>>/guvi/
+hadoop fs -ls <<HDFS PATH>>/guvi/
+hadoop fs -du -h <<HDFS PATH>>/guvi/
+hadoop fs -cat <hdfs_filename> | head -n 5 >> output.txt
+hadoop fs -cp big hdfscopy
+hadoop fs -get big <<Local Path>>
+cp big localcopy

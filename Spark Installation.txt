@@ -1,0 +1,4 @@
+1. https://www.knowledgehut.com/blog/big-data/how-to-install-apache-spark-on-windows
+2. https://www.devinline.com/2016/01/apache-spark-setup-in-eclipse-scala-ide.html
+3. https://www.itversity.com/setup-spark-development-environment-pycharm-and-python/
+4. Using pip install

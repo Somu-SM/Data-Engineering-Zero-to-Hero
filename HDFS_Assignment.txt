@@ -1,0 +1,11 @@
+Setup HDFS on local: Refer- https://dimensionless.in/know-how-to-install-and-run-hadoop-on-windows-for-beginners/
+1. Start HDFS and verify that it’s running.
+2. Create a new directory /guvi on HDFS.
+3. Create a file, name it big, on your local filesystem and upload it to HDFS under /guvi.
+4. View the content of /guvi directory.
+5. Determine the size of big on HDFS.
+6. Print the first 5 lines to file as output.txt from big on HDFS.
+7. Copy big to /big hdfscopy on HDFS.
+8. Copy big back to local filesystem and name it big localcopy.
+9. Check the entire HDFS filesystem for inconsistencies/problems.
+10. Zip the entire directory along with output.txt and commands and submit 
